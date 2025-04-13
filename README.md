@@ -1,4 +1,4 @@
-# -Multiclass-Classification-using-Vector-Embeddings
+# Multiclass-Classification-using-Vector-Embeddings
 
 Problem Statement:
 The objective of this project is to develop a predictive model for multiclass classification using vector embeddings. The dataset contains vector embeddings of 54,000 rows, which are categorized into 10 different classes. The model aims to classify each set of vector embeddings into the correct class, which is a common task in natural language processing (NLP) applications, especially in Large Language Models (LLMs), where vector embeddings capture the semantic relationships between words.
